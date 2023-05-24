@@ -1,3 +1,3 @@
-# TE_practica_3
-Univ: Adan Eddy Paredes Barrionuevo 
+# TE_2doárcial
+Univ: Crissel Aleyda Honorio Apaza 
 Materia Emergentes II
